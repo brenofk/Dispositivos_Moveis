@@ -1,2 +1,2 @@
 # Dispositivos Moveis
-Anexar trabalhos das relacionados a aula
+Anexar os trabalhos relacionados a matérias.

@@ -3,6 +3,9 @@ import Mensagem from "./Mensagem";
 import Cabecalho from "./Cabecalho";
 import Conteudo from "./Conteudo";
 import Rodape from "./Rodape";
+import Topo from "./Topo";
+import Meio from "./Meio";
+import Base from "./Base";
 
 // Define um componente funcional chamado App
 
@@ -52,8 +55,11 @@ function App() {
       <button onClick={executarAcao}>
       Executa a função
       </button>
-  
 
+      {/* Chama as funcoes de Topo, Meio e Base */}
+      <Topo />
+      <Meio />
+      <Base />
     </div>
 
 

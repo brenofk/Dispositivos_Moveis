@@ -1,4 +1,4 @@
-function Baixo() {
+function Base() {
   return (
     <footer>
       <p> Conteúdo do final da página</p>
@@ -6,4 +6,4 @@ function Baixo() {
   )
 }
 
-export default Baixo;
+export default Base;
